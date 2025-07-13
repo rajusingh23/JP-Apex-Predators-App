@@ -57,3 +57,13 @@ JPApexPredators is a Swift-based iOS app that brings the prehistoric world of Ju
 2. Open the project in Xcode.
 3. Build and run the app on your preferred simulator or device.
 
+
+## 🧙‍♂️ About the Developer
+
+Created by [Raju Singh](https://github.com/rajusingh23). Connect with me on [LinkedIn](https://www.linkedin.com/in/raju-s-45369a13b/).
+
+---
+
+## 🌟 Show Your Support
+
+If you like this project, give it a ⭐️ on [GitHub](https://github.com/rajusingh23/JP-Apex-Predators-App)!
